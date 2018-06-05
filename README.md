@@ -34,3 +34,6 @@ demo https://impossiblelabs-reports.now.sh
 - mock sheet https://docs.google.com/spreadsheets/d/1cV3TS_3zZMfydUjCLUnRpMfo7GnN0Zc6iCPeibYTbDE/edit
 - bootstrap + tachyons css collision hell: https://impossiblelabs-reports-cssfight.now.sh
   - (resolved - I think? - by only including jquery + bootstrap.js; no bootstrap.css)
+- Run locally
+	- npm install
+	- npm run dev
